@@ -1,7 +1,7 @@
 # CGME-Win10：Windows10 x64 神州网信政府版
 
 ## Update Log 更新记录
-2022-08-04 ： 初始版本创建<br>
+2022-08-04(22A8)： 初始版本创建<br>
 下载地址：unkonw
 
 ## Default Account/Password 默认账号密码
